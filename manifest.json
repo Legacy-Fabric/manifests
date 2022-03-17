@@ -1,0 +1,13 @@
+{
+  "versions": [
+    {
+      "id": "13w11a",
+      "type": "snapshot",
+      "url": "https://raw.githubusercontent.com/skyrising/mc-versions/main/data/manifest/6/d/f7d5535e0d7ae0623240ea2fd9b6bc13084724/13w11a.json",
+      "time": "2013-03-14T13:44:47+00:00",
+      "releaseTime": "2013-03-14T13:44:47+00:00",
+      "sha1": "null",
+      "complianceLevel": 0
+    }
+  ]
+}
