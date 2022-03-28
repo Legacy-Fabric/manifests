@@ -21,7 +21,7 @@
     {
       "id": "2point0_purple",
       "type": "snapshot",
-      "url": "https://raw.githubusercontent.com/skyrising/mc-versions/main/data/manifest/6/5/347e149c94255a0034bbaf46e98787e71063e1/2point0_purple.json",
+      "url": "https://raw.githubusercontent.com/Legacy-Fabric/manifests/master/2point0_purple.json",
       "time": "2013-04-01T17:44:00+00:00",
       "releaseTime": "2013-04-01T17:44:00+00:00",
       "sha1": "null",
@@ -30,7 +30,7 @@
     {
       "id": "2point0_red",
       "type": "snapshot",
-      "url": "https://raw.githubusercontent.com/skyrising/mc-versions/main/data/manifest/7/4/8c07eef2c212c4db863f932185aa72fa29934e/2point0_red.json",
+      "url": "https://raw.githubusercontent.com/Legacy-Fabric/manifests/master/2point0_red.json",
       "time": "2013-04-01T17:34:00+00:00",
       "releaseTime": "2013-04-01T17:34:00+00:00",
       "sha1": "null",
